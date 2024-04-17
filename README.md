@@ -1,0 +1,1 @@
+This Java project implements a Hamming code for error correction in binary transmissions, particularly suited for channels prone to bit flips with varying probabilities, such as the Binary Symmetric Channel (BSC). The Hamming code detects and corrects errors that occur during transmission, ensuring data integrity.
